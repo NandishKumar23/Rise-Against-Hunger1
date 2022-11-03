@@ -1,0 +1,40 @@
+{
+    "name": "rise-against-hunger",
+    "version": "1.0.0",
+    "description": "Web app created for hackathon",
+    "main": "index.js",
+    "scripts": {
+        "dev": "next dev",
+        "build": "next build",
+        "start": "next start"
+    },
+    "keywords": [],
+    "author": "VarunSAthreya & Sandeep M",
+    "license": "MIT",
+    "dependencies": {
+        "@chakra-ui/icons": "^1.1.1",
+        "@chakra-ui/react": "^1.7.2",
+        "@emotion/react": "^11.6.0",
+        "@emotion/styled": "^11.6.0",
+        "chart.js": "^3.6.2",
+        "date-fns": "^2.28.0",
+        "firebase": "8.0.2",
+        "firebase-admin": "9.4.1",
+        "framer-motion": "^4.1.17",
+        "next": "^12.0.5",
+        "nookies": "^2.5.2",
+        "react": "^17.0.2",
+        "react-chartjs-2": "^4.0.0",
+        "react-dom": "^17.0.2",
+        "react-geocode": "^0.2.3",
+        "react-icons": "^4.3.1",
+        "react-intersection-observer": "^8.33.1",
+        "react-slick": "^0.28.1"
+    },
+    "devDependencies": {
+        "eslint-config-prettier": "^8.3.0",
+        "eslint-plugin-prettier": "^4.0.0",
+        "eslint-plugin-react": "^7.25.1",
+        "prettier": "^2.3.2"
+    }
+}
